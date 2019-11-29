@@ -3,10 +3,10 @@
 Purpose
 =======
 
-Write me ...
+yeah!!
 
 
 Zipf's law
 ----------
 
-Write me ...
+Coderefinery is fun!!
